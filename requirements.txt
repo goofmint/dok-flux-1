@@ -1,0 +1,9 @@
+sentencepiece
+torch
+torchvision
+torchaudio
+accelerate
+protobuf
+transformers
+git+https://github.com/huggingface/diffusers.git
+boto3
